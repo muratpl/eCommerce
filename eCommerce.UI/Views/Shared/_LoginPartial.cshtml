@@ -1,0 +1,27 @@
+﻿<ul class="nav navbar-nav navbar-right">
+
+    @{
+        if (Request.IsAuthenticated)
+        {
+            <li>
+                <a href="/" class="navbar-link">@User.Identity.Name</a>
+            </li>
+            <li>
+                <a href="/Account/Logout" class="navbar-link">Logout</a>
+            </li>
+        }
+        else
+        {
+            <li>
+                <a href="/Account/Login" class="navbar-link">Login</a>
+            </li>
+            <li>
+                <a href="/Account/Register" class="navbar-link">Register</a>
+            </li>
+        }
+    }
+    }
+    }
+
+
+</ul>
