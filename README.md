@@ -2,7 +2,7 @@
 Admin panel basic infrastructure developed for e-commerce sites.
 ## About
 
-This project was prepared in ASP.NET MVC 5 framework with N-Tier Architecture model and Code First approach.
+This project was prepared in ASP.NET MVC 5 framework with *N-Tier Architecture* model and *Code First* approach.
 
 ## Built With
 
