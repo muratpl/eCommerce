@@ -22,11 +22,6 @@ This project was prepared in ASP.NET MVC 5 framework with *N-Tier Architecture* 
 -  [URL Rewriting](https://docs.microsoft.com/en-us/iis/extensions/url-rewrite-module/iis-url-rewriting-and-aspnet-routing) 
 - [Areas](https://docs.microsoft.com/en-us/previous-versions/aspnet/ee671793(v=vs.98)) 
 - [Session Operations](https://docs.microsoft.com/en-us/previous-versions/aspnet/dn468175(v=vs.108)) 
-- [URL Rewriting](https://docs.microsoft.com/en-us/iis/extensions/url-rewrite-module/iis-url-rewriting-and-aspnet-routing) 
-- [URL Rewriting](https://docs.microsoft.com/en-us/iis/extensions/url-rewrite-module/iis-url-rewriting-and-aspnet-routing) 
-
-
-## Authors
 
 -   **Murat Pala**   -  [muratpl](https://github.com/muratpl)
 
