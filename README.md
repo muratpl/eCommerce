@@ -8,6 +8,7 @@ This project was prepared in ASP.NET MVC 5 framework with *N-Tier Architecture* 
 
 -   [ ASP.NET MVC 5](https://docs.microsoft.com/en-us/aspnet/mvc/overview/getting-started/introduction/getting-started)  - A web framework based on Model-View-Controller (MVC) architecture.
 -   [Entity Framework (EF)](https://docs.microsoft.com/en-us/ef/)  - An open source object–relational mapping (ORM) framework for ADO NET.
+-   [MSSQL](https://www.microsoft.com/en-us/download/details.aspx?id=55994)  - A suite of database software published by Microsoft.
 -   [Windows Communication Foundation (WCF)](https://docs.microsoft.com/en-us/dotnet/framework/wcf/whats-wcf)  - A technology for developing applications based on service-oriented architecture (SOA)
 -   [ASP.NET - Web Services](https://docs.microsoft.com/en-us/dotnet/api/system.web.services.webservice?view=netframework-4.8)  - A software program that uses XML to exchange information with other software via common internet protocols.
 - [ASP.NET - Web API](https://dotnet.microsoft.com/en-us/apps/aspnet/apis)  - A framework for building HTTP services that can be accessed from any client including browsers and mobile devices.
