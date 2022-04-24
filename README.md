@@ -12,7 +12,7 @@ This project was prepared in ASP.NET MVC 5 framework with *N-Tier Architecture* 
 -   [ASP.NET - Web Services](https://docs.microsoft.com/en-us/dotnet/api/system.web.services.webservice?view=netframework-4.8)  - A software program that uses XML to exchange information with other software via common internet protocols.
 - [ASP.NET - Web API](https://dotnet.microsoft.com/en-us/apps/aspnet/apis)  - A framework for building HTTP services that can be accessed from any client including browsers and mobile devices.
 
-### Used Technologies
+#### Used Technologies
 
 -  [Weakly Typed Data Types](https://docs.microsoft.com/en-us/aspnet/core/mvc/views/overview?view=aspnetcore-6.0) 
 -  [Partial Views](https://docs.microsoft.com/en-us/aspnet/mvc/videos/mvc-2/how-do-i/how-do-i-work-with-data-in-aspnet-mvc-partial-views) 
@@ -23,7 +23,9 @@ This project was prepared in ASP.NET MVC 5 framework with *N-Tier Architecture* 
 - [Areas](https://docs.microsoft.com/en-us/previous-versions/aspnet/ee671793(v=vs.98)) 
 - [Session Operations](https://docs.microsoft.com/en-us/previous-versions/aspnet/dn468175(v=vs.108)) 
 
--   **Murat Pala**   -  [muratpl](https://github.com/muratpl)
+## Authors
+
+- **Murat Pala**   -  [muratpl](https://github.com/muratpl)
 
 See also the list of  [contributors](https://github.com/muratpl/eCommerce/contributors)  who participated in this project.
 
